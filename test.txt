@@ -1,2 +1,3 @@
+add a word
 hello git
 git is good
